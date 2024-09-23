@@ -4,7 +4,7 @@
 
 # Ticket Management System
 
-This is a basic Ticket Management System built with Node.js and MongoDB. The system allows users to perform CRUD operations (Create, Read, Update, Delete) for managing support tickets. It demonstrates how to build a RESTful API using Express.js and handle database interactions with MongoDB.
+This Ticket Management System, developed with Node.js and MongoDB, allows users to handle support tickets using CRUD operations (Create, Read, Update, and Delete). It demonstrates how to create a RESTful API using Express.js to handle a variety of ticket jobs. MongoDB serves as the database for storing and retrieving ticket data, showcasing efficient database interactions. The system allows users to generate new tickets, inspect current ones, edit details, and delete them as needed. This project demonstrates how to build scalable and adaptable backend systems with modern web development technologies.
 
 
 ## Features
