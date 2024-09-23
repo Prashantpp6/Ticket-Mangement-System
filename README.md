@@ -9,12 +9,13 @@ This Ticket Management System, developed with Node.js and MongoDB, allows users 
 
 ## Features
 
-        - Create new support tickets.
-        - Retrieve all support tickets.
-        - Retrieve a specific ticket by its unique ID.
-        - Update a support ticket by its unique ID.
-        - Delete a support ticket by its unique ID.
-        - Status for tickets: open, in-progress, closed.
+                -Submit new support tickets for any issues or requests.
+                -View all support tickets to track and manage ongoing or resolved cases.
+                -Fetch a specific ticket by its unique identifier to see detailed information or status updates.
+                -Modify a support ticket using its unique ID to update its details, such as the issue or priority.
+                -Remove a support ticket using its unique ID once the issue is resolved or no longer relevant.
+                -Ticket statuses include open (new or unresolved), in-progress (currently being worked on), and closed (resolved or completed). 
+                -This system streamlines managing and tracking support tickets effectively.
 
 ## Project Setup
 
